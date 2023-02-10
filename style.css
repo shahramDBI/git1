@@ -3,5 +3,8 @@ body{
 }
 
 header{
-    background-color: #abc;
+    background-color: burlywood;
+}
+.slider{
+    background-color: yellowgreen;
 }
